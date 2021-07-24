@@ -1,0 +1,14 @@
+﻿  Enemy.cpp
+  Explosion.cpp
+  bullet.cpp
+  game.cpp
+  gameobject.cpp
+  main.cpp
+  player.cpp
+  ufo.cpp
+  Generating code
+  275 of 280 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial.vcxproj -> C:\Users\thana\OneDrive\Συνημμένα\Υπολογιστής\project1.2\bin\Tutorial.exe
